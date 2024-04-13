@@ -1,0 +1,44 @@
+
+html {
+    background: gray;
+    margin: auto;
+}
+
+body{
+    display: flex;
+}
+
+
+.record{
+    padding: 20px 0;
+}
+
+.emoji{
+    font-size: 40px;
+}
+
+        .Error{
+            color: magenta;
+        }
+        .TypeError{
+            color: gold;
+        }
+        .ReferenceError{
+            color: blue;
+        }
+        .SyntaxError{
+            color: aqua;
+        }
+        .RangeError{
+            color: red;
+        }
+        .URIError{
+            color: yellow;
+        }
+        .EvalError{
+            color: rgb(0, 34, 255);
+        }
+        .CustomError{
+            color: rgb(162, 95, 83);
+        }
+
